@@ -76,7 +76,7 @@ def main(manager, ser_mfc):
         time.sleep(0.5)
 
 if __name__ == "__main__":
-    host = '137.165.111.177'
+    host = '137.165.109.165'
     port = '8086'
 
     username = 'giovanetti'
