@@ -71,9 +71,7 @@ def main(manager, ser_mfc):
 
         except Exception as e:
             print(f"Error: {e}")
-            time.sleep(5)
-        
-        time.sleep(0.5)
+            time.sleep(1)
 
 if __name__ == "__main__":
     host = '137.165.109.165'
